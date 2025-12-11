@@ -17,17 +17,20 @@ Python [threading, socket, requests]
 # Useful Websites
 
 [{How to Create a TCP Chat Server in Python}](https://www.youtube.com/watch?v=l5WU7d49OGk&list=PLS1QulWo1RIZGSgRsn0b8w9uoWM1gHDpo)
-[{Python server docs}]
 
-## Sockets
+## Python server docs
+
+Section for useful python server documentation
+
+#### Sockets
 
 https://docs.python.org/3/library/socket.html
 
-## Threading
+### Threading
 
 https://docs.python.org/3/library/threading.html
 
-## SocketServer
+### SocketServer
 
 https://docs.python.org/3/library/socketserver.html
 

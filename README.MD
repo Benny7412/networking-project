@@ -9,8 +9,6 @@ This is a simple client-server chat application.
 The server uses TCP and defaults to 0.0.0.0(listen to all network connections) and port 5000
 The client defaults to 127.0.0.1 and port 5000
 
-{Identify the format of messages being sent between the client and server or the messages sent between two peers.}
-
 # Development Environment
 
 VSCode
@@ -20,11 +18,18 @@ Python [threading, socket, requests]
 
 [{How to Create a TCP Chat Server in Python}](https://www.youtube.com/watch?v=l5WU7d49OGk&list=PLS1QulWo1RIZGSgRsn0b8w9uoWM1gHDpo)
 [{Python server docs}]
-(
+
+## Sockets
+
 https://docs.python.org/3/library/socket.html
+
+## Threading
+
 https://docs.python.org/3/library/threading.html
+
+## SocketServer
+
 https://docs.python.org/3/library/socketserver.html
-)
 
 # Future Work
 
